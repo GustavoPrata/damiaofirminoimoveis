@@ -1,0 +1,10 @@
+ajustar texto geral do site OK
+centralizar logo header OK
+ajustar os icones do menu OK
+tirar os padding da section OK
+ajustar hover azul / cinza OK
+hover - qr code arquiteto OK
+mudanças sobre os status da home m² kg aço e concreto // sobre embaixo da home OK
+colocar icones referente a serviços gerenciamento OK
+criar galeria de fotos, deixar no slider somente as fotos principais, tirar legenda das imagens
+section contato tirar logo e colocar qrcode na mesmo tamanho dos icone e textos insta e tel OK
