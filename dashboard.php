@@ -437,7 +437,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
     <a class="" href="#home">
       <img class="logo-footer" src="./assets/svg/logo6.png" alt="Logo Damião" loading="lazy">
     </a>
-    <p style="color:white">©2024 Damião Firmino.<br>Todos os direitos reservados.<br><br>Desenvolvido por Gustavo Prata</p>
+    <p style="color:white">©2024 Damião Firmino</p>
     <div class="social">
       <a href="https://www.instagram.com/damiaofirmino.imoveis/" target="_blank">
         <i class="icon-instagram"></i>

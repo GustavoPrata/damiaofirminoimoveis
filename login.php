@@ -204,7 +204,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <a class="" href="#home">
                 <img class="logo-footer" src="./assets/svg/logo6.png" alt="Logo Damião" loading="lazy">
             </a>
-            <p>©2024 Damião Firmino.<br>Todos os direitos reservados.<br><br>Desenvolvido por Gustavo Prata</p>
+            <p>©2024 Damião Firmino</p>
             <div class="social">
                 <a href="https://www.instagram.com/damiaofirmino.imoveis/" target="_blank">
                     <i class="icon-instagram"></i>

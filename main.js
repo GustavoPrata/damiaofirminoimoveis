@@ -7,9 +7,8 @@ const imgExample6 = document.querySelector('.stack-slider__slide6')
 const imgExample7 = document.querySelector('.stack-slider__slide7')
 const imgExample8 = document.querySelector('.stack-slider__slide8')
 const imgExample9 = document.querySelector('.stack-slider__slide9')
-const imgExample10 = document.querySelector('.stack-slider__slide10')
 
-function openQrCodea() {
+function openQrCode() {
         imgExample.classList.add('active') 
         imgExample2.classList.add('active')
         imgExample3.classList.add('active')
@@ -19,10 +18,9 @@ function openQrCodea() {
         imgExample7.classList.add('active')
         imgExample8.classList.add('active')
         imgExample9.classList.add('active')
-        imgExample10.classList.add('active')
     }
 
-function closeQrCodea() {
+function closeQrCode() {
     imgExample.classList.remove('active')
     imgExample2.classList.remove('active')
     imgExample3.classList.remove('active')
@@ -32,7 +30,6 @@ function closeQrCodea() {
     imgExample7.classList.remove('active')
     imgExample8.classList.remove('active')
     imgExample9.classList.remove('active')
-    imgExample10.classList.remove('active')
 }
 
 /*  abre e fecha o menu quando clicar no icone: hamburguer e x */
