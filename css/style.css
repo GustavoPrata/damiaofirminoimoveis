@@ -982,7 +982,7 @@ text-align: center;
 }
 
 .contact .button {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
 #contact .button i,
@@ -1001,23 +1001,31 @@ text-align: center;
 }
 
 .contact-img {
-    width: 150px;
-    border-radius: 50%;
-    animation: float-bottom 8s ease-in-out infinite;
-    animation-direction: alternate;
+  width: 150px;
+  border-radius: 50%;
+  animation: float-bottom 8s ease-in-out infinite;
+  animation-direction: alternate;
 }
 
 #contact ul li i {
-    color: var(--base-color);
+  color: var(--base-color);
 }
 
 .links {
-    display: flex;
-    gap: 15px
+  display: flex;
+  gap: 15px;
 }
 
 .contact-qrcode-img {
-    max-width: 85px;
+  max-width: 85px;
+}
+
+/* Adicionando consulta de mídia para centralizar o texto apenas em dispositivos móveis */
+@media (max-width: 768px) {
+  #contact .text h2,
+  #contact .text p {
+    text-align: center;
+  }
 }
 
 /*====  FOOTER ============================ */
